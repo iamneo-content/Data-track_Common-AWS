@@ -1,26 +1,26 @@
-PPT Content Bank: LTIM_Spark_AWS_Batch_2_CB
+PPT Content Bank: LTIM_Glue_CB
 
 MCQ QB Added: 
-Session-1: 
-Session-2: 
-Session-3: 
+Session-1: LTIM_Glue_Data
+Session-2: LTIM_Glue_Visual
+Session-3: LTIM_Glue_Job
 
 COD QB Added: 
 
 Week-7 Day-4 Session-1: 
-PPT: 
-MCQ: 
+PPT: Teaching_Data_Transformation_Techniques
+MCQ: KCQ_Data_Transformation_Concepts
 COD - 1: Practice_Glue_DataTransformations_Q1
 COD - 2: Practice_Glue_DataTransformations_Q2
 COD - 3: Practice_Glue_DataTransformations_Q3
 
 Week-7 Day-4 Session-2:
-PPT: 
-MCQ: 
+PPT: Teaching_Introduction_to_AWS_Glue_DataBrew
+MCQ: KCQ_Visual_Transformation_With_Databrew
 COD - 1: Practice_GlueDatabrew_Q1
 COD - 2: Practice_GlueDatabrew_Q2
 COD - 3: Practice_GlueDatabrew_Q3
 
 Week-7 Day-4 Session-3:
-PPT: 
-MCQ: 
+PPT: Teaching_Introduction_to_Job_Development
+MCQ: KCQ_Job_Development_and_Monitoring
