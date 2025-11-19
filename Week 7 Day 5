@@ -1,26 +1,26 @@
-PPT Content Bank: LTIM_Spark_AWS_Batch_2_CB
+PPT Content Bank: LTIM_Glue_CB
 
 MCQ QB Added: 
-Session-1: 
-Session-2: 
-Session-3: 
+Session-1: LTIM_Glue_Security
+Session-2: LTIM_Glue_AWS
+Session-3: LTIM_Glue_ETL
 
 COD QB Added: 
 
 Week-7 Day-5 Session-1: 
-PPT: 
-MCQ: 
+PPT: Teaching_Security_in_AWS_Glue
+MCQ: KCQ_Security_in_AWS_Glue
 
 Week-7 Day-5 Session-2:
-PPT: 
-MCQ: 
+PPT: Teaching_Introduction_to_Integration_with_AWS
+MCQ: KCQ_Integration_with_AWS_Services
 COD - 1: Practice_Glue_Integration_Q1
 COD - 2: Practice_Glue_Integration_Q2
 COD - 3: Practice_Glue_Integration_Q3
 
 Week-7 Day-5 Session-3:
-PPT: 
-MCQ: 
+PPT: Teaching_Introduction_to_ETL_Pipeline
+MCQ: KCQ_ETL_Pipeline_and_Workflow_Automation
 COD - 1: Practice_Glue_ETL_Pipeline_Q1
 COD - 2: Practice_Glue_ETL_Pipeline_Q2
 COD - 3: Practice_Glue_ETL_Pipeline_Q3
