@@ -1,26 +1,26 @@
-PPT Content Bank: LTIM_Spark_AWS_Batch_2_CB
+PPT Content Bank: LTIM_Glue_CB
 
 MCQ QB Added: 
-Session-1: 
-Session-2: 
-Session-3: 
+Session-1: LTIM_Glue_Intro
+Session-2: LTIM_Glue_Components_1
+Session-3: LTIM_Glue_Components_2
 
 COD QB Added: 
 
 Week-7 Day-3 Session-1: 
-PPT: 
-MCQ: 
+PPT: Teaching_Introduction_to_AWS_Glue
+MCQ: KCQ_Introduction_to_AWS_Glue
 
 Week-7 Day-3 Session-2:
-PPT: 
-MCQ: 
+PPT: Teaching_AWS_Glue_Core_Components
+MCQ: KCQ_Glue_Core_Components_1
 COD - 1: Practice_Glue_DataCatalog_Q1
 COD - 2: Practice_Glue_DataCatalog_Q2 
 COD - 3: Practice_Glue_DataCatalog_Q3
 
 Week-7 Day-3 Session-3:
-PPT: 
-MCQ: 
+PPT: Teaching_AWS_Glue_ETL_Components
+MCQ: KCQ_Glue_Core_Components_2
 COD - 1: Practice_ETL_Jobs_Q1
 COD - 2:  Practice_ETL_Jobs_Q2
 COD - 3:  Practice_ETL_Jobs_Q3
